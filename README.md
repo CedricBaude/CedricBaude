@@ -83,8 +83,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-round&logo=postgresql&logoColor=white" />
 </p>
-</br>
-<h2>Mes réseaux </h2>
+<h2>:satellite: Mes réseaux </h2>
 </br>
 <p>
 <a href="https://www.facebook.com/cedric.baude.54" target="blank"><img  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-round&logo=Facebook&logoColor=white" /></a>
