@@ -58,7 +58,7 @@
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-round&logo=microsoft-office&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-round&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-round&logo=microsoft-word&logoColor=white" />
-</br></br>
+
 <h2>:rocket: Les choses que je souhaite approfondir </3>
 </br></br>
 
