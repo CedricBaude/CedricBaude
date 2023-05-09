@@ -8,7 +8,7 @@
 
 <h2>:computer: Les choses que je connais </h2>
 </br></br>
-
+<p>
   <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-round&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-round&logo=css3&logoColor=white" />
@@ -58,10 +58,10 @@
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-round&logo=microsoft-office&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-round&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-round&logo=microsoft-word&logoColor=white" />
-
+</p>
 <h2>:rocket: Les choses que je souhaite approfondir </h2>
 </br></br>
-
+<p>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-round&logo=angular&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-round&logo=express&logoColor=%2361DAFB" />
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-round&logo=laravel&logoColor=white" />
@@ -82,11 +82,13 @@
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-round&logo=mariadb&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-round&logo=postgresql&logoColor=white" />
-
+</p>
 </br></br>
 <h2>Mes réseaux </h2>
 </br>
+<p>
 <a href="https://www.facebook.com/cedric.baude.54" target="blank"><img  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-round&logo=Facebook&logoColor=white" /></a>
 <a href="https://twitter.com/Kaigo_Citron" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-round&logo=Twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/cedric-baude-59652a65/" target="blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-round&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.baude-cedric.fr" target="blank"><img  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-round&logo=firefox&logoColor=#FF7139" /></a>
+</p>
