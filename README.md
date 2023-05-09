@@ -85,6 +85,8 @@
 
 </br></br>
 <h2>Mes réseaux </3>
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-round&logo=linkedin&logoColor=white)
-<a href="https://linkedin.com/in/cedric-baude-59652a65/" target="blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-round&logo=linkedin&logoColor=white" alt="cedric-baude-59652a65/" /></a>
+</br>
+<a href="https://www.facebook.com/cedric.baude.54" target="blank"><img  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-round&logo=Facebook&logoColor=white" /></a>
+<a href="https://twitter.com/Kaigo_Citron" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-round&logo=Twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/cedric-baude-59652a65/" target="blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-round&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.baude-cedric.fr" target="blank"><img  src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-round&logo=firefox&logoColor=#FF7139" /></a>
