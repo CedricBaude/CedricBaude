@@ -59,7 +59,7 @@
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-round&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-round&logo=microsoft-word&logoColor=white" />
 
-<h2>:rocket: Les choses que je souhaite approfondir </3>
+<h2>:rocket: Les choses que je souhaite approfondir </h2>
 </br></br>
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-round&logo=angular&logoColor=white" />
@@ -84,7 +84,7 @@
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-round&logo=postgresql&logoColor=white" />
 
 </br></br>
-<h2>Mes réseaux </3>
+<h2>Mes réseaux </h2>
 </br>
 <a href="https://www.facebook.com/cedric.baude.54" target="blank"><img  src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-round&logo=Facebook&logoColor=white" /></a>
 <a href="https://twitter.com/Kaigo_Citron" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-round&logo=Twitter&logoColor=white" /></a>
