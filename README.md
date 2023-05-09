@@ -1,4 +1,4 @@
-![Cover](asset/banner.png)
+![Cover](asset/banner.jpg)
 <h1>Hello ! 👋</h1>
 <p>Bienvenue sur ma page Github. Je suis Cedric et je suis Développeur Web junior. </p>
 
@@ -22,7 +22,6 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" />
-</br></br>
   <img alt="Dropbox" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=flat-square&logo=Dropbox&logoColor=white" />
   <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
