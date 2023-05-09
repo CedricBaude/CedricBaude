@@ -44,7 +44,7 @@
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" />
   <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white" /> -->
-</br>
+</br></br>
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
   <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white" />
