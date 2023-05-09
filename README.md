@@ -1,4 +1,4 @@
-![Cover](asset/banner.jpg)
+![Cover](asset/banner.png)
 <h1>Hello ! 👋</h1>
 <p>Bienvenue sur ma page Github. Je suis Cedric et je suis Développeur Web junior. </p>
 
