@@ -1,10 +1,10 @@
 ![Cover](asset/banner.jpg)
-<h1>Hello ! 👋</h1>
-<p>Bienvenue sur ma page Github. Je suis Cedric et je suis Développeur Web junior. </p>
+<h1>👋 Hello! </h1>
+<p>:balloon: Bienvenue sur ma page Github. Je suis Cedric et je suis Développeur Web junior. </p>
 
-<p>Aprés un titre professionnel Web Designer en 2018 et un titre professionnel Développeur Web - Web Mobile en 2022, je me lance dans un nouveau titre professionnel de Concepteur Développeur d'Application chez Simplon Haut-de-France afin de devenir Développeur Full Stack. </p>
+<p>:books: Aprés un titre professionnel Web Designer en 2018 et un titre professionnel Développeur Web - Web Mobile en 2022, je me lance dans un nouveau titre professionnel de Concepteur Développeur d'Application chez Simplon Haut-de-France afin de devenir Développeur Full Stack. </p>
 
-<p>J'ai une grande appétence pour le développement Front-End ainsi que pour le design, sans pour autant délaisser le développement Back-End. Actuellement je continue de me perfectionner sur React et j'envisage d'apprendre à utiliser Angular (ou Vue), Next.js et Java. J'envisage aussi de combler mes lacunes sur Symfony et pourquoi pas jeter un oeil sur Laravel. </p>
+<p>:art: J'ai une grande appétence pour le développement Front-End ainsi que pour le design, sans pour autant délaisser le développement Back-End. Actuellement je continue de me perfectionner sur React et j'envisage d'apprendre à utiliser Angular (ou Vue), Next.js et Java. J'envisage aussi de combler mes lacunes sur Symfony et pourquoi pas jeter un oeil sur Laravel. </p>
 
 <h3>:computer: Les choses que je connais </3>
 </br></br>
@@ -83,3 +83,5 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg??style=flat-round&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg??style=flat-round&logo=postgresql&logoColor=white" />
 
+</br></br>
+<h3>Mes réseaux </3>
