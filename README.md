@@ -7,7 +7,7 @@
 <p>:art: J'ai une grande appétence pour le développement Front-End ainsi que pour le design, sans pour autant délaisser le développement Back-End. Actuellement je continue de me perfectionner sur React et j'envisage d'apprendre à utiliser Angular (ou Vue), Next.js et Java. J'envisage aussi de combler mes lacunes sur Symfony et pourquoi pas jeter un oeil sur Laravel. </p>
 
 <h2>:computer: Les choses que je connais </h2>
-</br></br>
+</br>
 <p>
   <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-round&logo=html5&logoColor=white" />
@@ -44,7 +44,7 @@
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4??style=flat-round&logo=GoogleChrome&logoColor=white" />
   <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D??style=flat-round&logo=Opera&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/Safari-000000??style=flat-round&logo=Safari&logoColor=white" /> -->
-</br></br>
+</br>
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-round&logo=Adobe%20After%20Effects&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-round&logo=adobe%20illustrator&logoColor=white" />
   <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-round&logo=adobeindesign&logoColor=white" />
@@ -60,7 +60,7 @@
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-round&logo=microsoft-word&logoColor=white" />
 </p>
 <h2>:rocket: Les choses que je souhaite approfondir </h2>
-</br></br>
+</br>
 <p>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-round&logo=angular&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-round&logo=express&logoColor=%2361DAFB" />
@@ -78,12 +78,12 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-round&logo=openjdk&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-round&logo=python&logoColor=ffdd54" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-round&logo=typescript&logoColor=white" />
-</br></br>
+</br>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-round&logo=mariadb&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-round&logo=postgresql&logoColor=white" />
 </p>
-</br></br>
+</br>
 <h2>Mes réseaux </h2>
 </br>
 <p>
