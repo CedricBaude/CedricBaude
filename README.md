@@ -59,7 +59,7 @@
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A??style=flat-round&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A??style=flat-round&logo=microsoft-word&logoColor=white" />
 </br></br>
-<h3>:rocket: Les choses que je souhaite approfondir </3>
+<h2>:rocket: Les choses que je souhaite approfondir </3>
 </br></br>
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg??style=flat-round&logo=angular&logoColor=white" />
@@ -84,4 +84,7 @@
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg??style=flat-round&logo=postgresql&logoColor=white" />
 
 </br></br>
-<h3>Mes réseaux </3>
+<h2>Mes réseaux </3>
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://linkedin.com/in/cedric-baude-59652a65/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedric-baude-59652a65/" height="30" width="40" /></a>
