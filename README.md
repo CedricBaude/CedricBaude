@@ -6,7 +6,7 @@
 <p>J'ai une grande appétence pour le développement Front-End ainsi que pour le design, sans pour autant délaisser le développement Back-End. Actuellement je continue de me perfectionner sur React et j'envisage d'apprendre à utiliser Angular (ou Vue), Next.js et Java. J'envisage aussi de combler mes lacunes sur Symfony et pourquoi pas jeter un oeil sur Laravel. </p>
 
 <h3>Les choses que je connais </3>
-</br>
+</br></br>
 
   <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
@@ -21,14 +21,13 @@
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
   <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white" />
-</br>
+</br></br>
   <img alt="Dropbox" src="https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=flat-square&logo=Dropbox&logoColor=white" />
   <img alt="Google Drive" src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-</br>
 
   <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" />
@@ -45,7 +44,7 @@
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" />
   <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?style=flat-square&logo=Opera&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?style=flat-square&logo=Safari&logoColor=white" /> -->
-</br>
+</br></br>
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
   <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white" />
@@ -60,7 +59,8 @@
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
 
-<h3>Les choses que je souhaite améliorer </3></br>
+<h3>Les choses que je souhaite améliorer </3>
+</br></br>
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" />
