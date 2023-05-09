@@ -5,7 +5,7 @@
 
 <p>J'ai une grande appétence pour le développement Front-End ainsi que pour le design, sans pour autant délaisser le développement Back-End. Actuellement je continue de me perfectionner sur React et j'envisage d'apprendre à utiliser Angular (ou Vue), Next.js et Java. J'envisage aussi de combler mes lacunes sur Symfony et pourquoi pas jeter un oeil sur Laravel. </p>
 
-<h3>:computer:Les choses que je connais </3>
+<h3>:computer: Les choses que je connais </3>
 </br></br>
 
   <!-- <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
@@ -59,7 +59,7 @@
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
 
-<h3>Les choses que je souhaite améliorer </3>
+<h3>:rocket: Les choses que je souhaite approfondir </3>
 </br></br>
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
