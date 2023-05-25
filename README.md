@@ -1,6 +1,6 @@
 ![Cover](asset/banner.png)
 <h1>👋 Hello there! </h1>
-<p>:balloon: Bienvenue sur ma page Github. Je suis Cedric et je suis Développeur Web junior. </p>
+<p>:balloon: Bienvenue sur ma page Github. Je suis Cedric et je suis Développeur Web. </p>
 
 <p>:books: Aprés un titre professionnel Web Designer en 2018 et un titre professionnel Développeur Web - Web Mobile en 2022, je me lance dans un nouveau titre professionnel de Concepteur Développeur d'Application chez Simplon Haut-de-France afin de devenir Développeur Full Stack. </p>
 
