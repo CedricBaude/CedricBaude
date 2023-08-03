@@ -36,7 +36,6 @@
   <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D??style=flat-round&logo=Opera&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/Safari-000000??style=flat-round&logo=Safari&logoColor=white" /> -->
   </p>
-</br>
 <p>
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-round&logo=Adobe%20After%20Effects&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-round&logo=adobe%20illustrator&logoColor=white" />
