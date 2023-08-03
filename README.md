@@ -35,7 +35,7 @@
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4??style=flat-round&logo=GoogleChrome&logoColor=white" />
   <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D??style=flat-round&logo=Opera&logoColor=white" />
   <img alt="Safari" src="https://img.shields.io/badge/Safari-000000??style=flat-round&logo=Safari&logoColor=white" /> -->
-</br></br>
+</br>
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-round&logo=Adobe%20After%20Effects&logoColor=white" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat-round&logo=adobe%20illustrator&logoColor=white" />
   <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat-round&logo=adobeindesign&logoColor=white" />
@@ -60,7 +60,7 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-round&logo=openjdk&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-round&logo=python&logoColor=ffdd54" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-round&logo=typescript&logoColor=white" />
-</br></br>
+</br>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-round&logo=mariadb&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-round&logo=postgresql&logoColor=white" />
