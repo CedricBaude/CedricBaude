@@ -61,7 +61,8 @@
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-round&logo=openjdk&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-round&logo=python&logoColor=ffdd54" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-round&logo=typescript&logoColor=white" />
-</br>
+</p>
+<p>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat-round&logo=mariadb&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white" />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-round&logo=postgresql&logoColor=white" />
